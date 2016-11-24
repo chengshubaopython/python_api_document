@@ -6,3 +6,5 @@
    * [1.2 偏离度案例推荐](law_strategy/fa_ce_pan_jue_an_li_tui_jian.md)
 * [2 标准法律问题问答](standard_question_port/standard_question_port.md)
    * [1.1 案由识别](standard_question_port/an_you_shi_bie.md)
+* [3 微博预测](weibo_predict/weibo_predict.md)
+   * [1.1 微博消极和积极预测](weibo_predict/weibo_predict_xiaoji_yu_jiji.md)

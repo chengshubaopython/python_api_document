@@ -96,7 +96,7 @@ amount_tag:30w_50w
 
 #调用方法
 
-##方法名:predict_judgement
+##方法名:predict.predict
 
 ##参数:
 
